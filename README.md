@@ -17,7 +17,6 @@ Sempre estive próximo da área técnica, o que me motivou a aprofundar meus con
 Acredito que entender tanto o lado de negócios quanto o de tecnologia é essencial para criar produtos que realmente façam a diferença.
 
 ---
-
 ## 🛠️ Technologies I'm Learning | Tecnologias que estou aprendendo
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -25,4 +24,23 @@ Acredito que entender tanto o lado de negócios quanto o de tecnologia é essenc
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_SQS-FF99_
+![AWS](https://img.shields.io/badge/AWS_SQS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📫 How to reach me | Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heliocomh/)
+[![Email](https://img.shields.io/badge/Email-helio@heliocomh.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helio@heliocomh.com.br)
+
+---
+
+<!--
+## 📊 GitHub Stats | Estatísticas do GitHub
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=heliocomh&show_icons=true&theme=default&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliocomh&layout=compact&langs_count=7&theme=default&hide_title=true"/>
+</div>
+-->
+
