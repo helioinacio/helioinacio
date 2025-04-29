@@ -1,4 +1,4 @@
-# Hey! My name is Hélio ✌️
+## Hey! My name is Hélio ✌️
 
 After more than 10 years working as a product manager and leading tech teams, I started a new chapter in my career: transitioning into software development.
 
@@ -6,7 +6,7 @@ Being close to the technical side has always motivated me, and in 2022, I comple
 
 ---
 
-# Olá! Me chamo Hélio ✌️
+## Olá! Me chamo Hélio ✌️
 
 Depois de mais de 10 anos atuando como gestor de produtos e liderando times de tecnologia, comecei uma nova fase na minha carreira: a transição para o desenvolvimento de software.
 
